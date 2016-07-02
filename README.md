@@ -14,6 +14,8 @@ Unleash a powerful Igni blast when Geralt reaches low health and has enough stor
 
 
 
+
+
 ## Quick Start
 
 modPhoenixRage automatically adds the Phoenix Rage skill to your skill tree as you load a save file. 
@@ -29,3 +31,15 @@ modPhoenixRage automatically adds the Phoenix Rage skill to your skill tree as y
 9. Activate the skill
 10. When you reach below 25% health and have 3 Adrenaline points, trigger the skill via the modifier key + cast sign key.
 
+
+
+
+## Roadmap
+
+Please help drive the direction of this mod by voting and commenting over on the [Trello](https://trello.com/b/m3njoMmL/modphoenixrage) board where the roadmap for this mod is outlined.
+
+
+
+## Wiki
+
+See the [Wiki](https://github.com/cvax/modPhoenixRage/wiki) for more in-depth usage and [configuration](https://github.com/cvax/modPhoenixRage/wiki/Preset-Options) information as well as [developer resources](https://github.com/cvax/modPhoenixRage/wiki/Developer-Resources).
