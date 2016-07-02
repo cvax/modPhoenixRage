@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				".gitattributes",
+				".gitignore",
+				"modPhoenixRage.sublime-project",
+				"modPhoenixRage.sublime-workspace"
+			],
+			"folder_exclude_patterns":
+			[
+				"Compiled",
+				".idea",
+				".meteor",
+				".vscode",
+				".git"
+			],
+			"path": "C:\\Users\\Josh\\Desktop\\Games\\Witcher3_Development\\modPhoenixRage"
+		}
+	]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+    <Group id="PhoenixRage" displayName="Mods.phoenix_rage">
+		<PresetsArray>
+			<Preset id="0" displayName="phoenix_rage_preset01" tags="customNames;nonLocalized;customDisplayName">
+				<Entry varId="phxRageEnabled"				value="1"	/>
+				<Entry varId="clusterCount"					value="10"	/>
+				<Entry varId="maxHealthReq"					value="25"	/>
+				<Entry varId="adrenCost"					value="3"	/>
+				<Entry varId="stamCost"						value="50"	/>
+			</Preset>
+			<Preset id="1" displayName="phoenix_rage_preset02" tags="customNames;nonLocalized;customDisplayName">
+				<Entry varId="phxRageEnabled"				value="1"	/>
+				<Entry varId="clusterCount"					value="10"	/>
+				<Entry varId="maxHealthReq"					value="100"	/>
+				<Entry varId="adrenCost"					value="0"	/>
+				<Entry varId="stamCost"						value="50"	/>
+			</Preset>
+		</PresetsArray>
+        <VisibleVars>
+			<Var id="phxRageEnabled" displayName="pr_enabled" displayType="OPTIONS" tags="customNames;customDisplayName">
+				<OptionsArray>
+					<Option id="0" displayName="pr_enabled_Option1">
+						<Entry varId="phxRageEnabled" value="0"/>
+					</Option>
+					<Option id="1" displayName="pr_enabled_Option2">
+						<Entry varId="phxRageEnabled" value="1"/>
+					</Option>
+					<Option id="2" displayName="pr_enabled_Option3">
+						<Entry varId="phxRageEnabled" value="2"/>
+					</Option>
+				</OptionsArray>
+			</Var>
+			
+			<Var id="clusterCount" displayName="pr_clusterCount" displayType="SLIDER;0;10;10" tags="customNames;nonLocalized;customDisplayName"/>
+
+			<Var id="maxHealthReq" displayName="pr_maxHealthReq" displayType="SLIDER;0;100;100" tags="customNames;nonLocalized;customDisplayName"/>
+
+			<Var id="adrenCost" displayName="pr_adrenCost" displayType="SLIDER;0;3;3" tags="customNames;nonLocalized;customDisplayName"/>
+			
+			<Var id="stamCost" displayName="pr_stamCost" displayType="SLIDER;0;100;100" tags="customNames;nonLocalized;customDisplayName"/>
+        </VisibleVars>
+    </Group>
+</UserConfig>
