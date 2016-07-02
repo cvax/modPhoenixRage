@@ -7,8 +7,8 @@ function StringDefinitionToEnum( s : string ) : name
 		// Make sure to provide all string-to-name conversions below.
 
 		// Ex:
-		// case "CustomSkillGroupID"	: return 'CustomSkillGroupID';		// group_name
-		// case "customSkillEnabled"	: return 'customSkillEnabled';		// group_var
+		case "CustomSkillGroupID"	: return 'CustomSkillGroupID';		// group_name
+		case "customSkillEnabled"	: return 'customSkillEnabled';		// group_var
 
 		case "PhoenixRage"		: return 'PhoenixRage';		// group_name
 		case "phxRageEnabled"	: return 'phxRageEnabled';	// group_var for enable

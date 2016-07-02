@@ -102,7 +102,9 @@ statemachine class W3PlayerWitcher extends CR4Player
 	private				var medallionController		: W3MedallionController;
 	
 	
-	
+	// modPhoenixRage++
+	private var mPhoenixRage : PhxRage;
+	// modPhoenixRage--	
 	
 	public 				var bShowRadialMenu	: bool;	
 
@@ -122,11 +124,6 @@ statemachine class W3PlayerWitcher extends CR4Player
 		default isInitialized = false;
 		
 	
-
-	// modPhoenixRage++
-	private var mPhoenixRage : PhxRage;
-	// modPhoenixRage--
-
 	private var invUpdateTransaction : bool;
 		default invUpdateTransaction = false;
 	
