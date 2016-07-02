@@ -9,7 +9,7 @@ Unleash a powerful Igni blast when Geralt reaches low health and has enough stor
 
 - On-the-fly, in-game customizations to tweak skill level to your own liking
 - Enable / disable toggles to turn features you like on / off
-- Utilizes the [Custom Skills Framework](http://www.nexusmods.com/witcher3/mods/1758/?)
+- Utilizes the Custom Skills Framework ([NexusMods](http://www.nexusmods.com/witcher3/mods/1758/?) / [GitHub](https://github.com/cvax/modCustomSkillsFramework))
 - When Geralt reaches low health, Igni has a new second alternate casting mode that unleashes the power of the Phoenix, blasting all enemies in a nearby radius.
 
 
