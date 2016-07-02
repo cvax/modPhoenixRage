@@ -1,0 +1,10 @@
+1. Use any text editor like Notepad++ to open <Witcher 3 Dir>\bin\config\r4game\user_config_matrix\pc\input.xml
+2. Find the line with this text: <!-- [BASE_CharacterMovement] -->
+3. Add these lines above it. Save. Do NOT remove lines from other mods.
+
+
+
+<!-- PhoenixRage -->
+<Var builder="Input" id="PhoenixRage"	displayName="Cast: Phoenix Rage"	displayType="INPUTPC" actions="PhoenixRage"/>
+<Var builder="Input" id="PhoenixRageModifier"	displayName="Cast: Phoenix Rage Modifier"	displayType="INPUTPC" actions="PhoenixRageModifier"/>
+<!-- PhoenixRage -->

@@ -1,0 +1,34 @@
+;meta[language=en]
+; id      |key(hex)|key(str)| text
+;
+; comment lines use ; as first character
+; all comment lines (except the two line header) will be ignored
+;
+; Options > Mods > Phoenix Rage main menu
+;
+2110956000|        |panel_Mods|Mods
+2110956001|        |panel_phoenix_rage|Phoenix Rage
+2110956002|        |preset_Mods_phoenix_rage|Phoenix Rage (Igni Skill) presets
+2110956003|        |preset_value_phoenix_rage_preset01|Balanced
+2110956004|        |preset_value_phoenix_rage_preset02|Strong
+2110956005|        |pr_clusterCount|Cluster Count
+2110956006|        |pr_maxHealthReq|Health %
+2110956007|        |pr_adrenCost|Adrenaline Cost
+2110956008|        |pr_stamCost|Stamina Cost %
+2110956009|        |pr_enabled|---=== ENABLE ===--- <u>Reloading of save file required.<u>
+2110956010|        |pr_enabled_Option1|Off
+2110956011|        |pr_enabled_Option2|On
+2110956012|        |pr_enabled_Option3|Uninstall
+;
+; Skill Name/Descriptions/Notifications
+;
+2110956030|        |skill_name_phoenix_rage|Phoenix Rage
+2110956031|        |skill_desc_prev_phoenix_rage|When under $I$% health, Geralt can consume $I$ Adrenaline Points to unleash a mighty blast.
+2110956032|        |skill_desc_phoenix_rage|When under $I$% health, Geralt can consume $I$ Adrenaline Points to unleash a mighty blast.
+2110956033|        |skill_desc_phoenix_rage_2|When under $I$% health, Geralt can consume $I$ Adrenaline Points to unleash a mighty blast.
+2110956034|        |skill_desc_phoenix_rage_3|When under $I$% health, Geralt can consume $I$ Adrenaline Points to unleash a mighty blast.
+2110956035|        |phoenix_rage_install|Phoenix Rage installed. Find it in the Character menu under the Igni Sign skills.
+2110956036|        |phoenix_rage_disable|Phoenix Rage disabled. Any skill points used on it has been refunded. If you intend to delete this mod completely, please use the UNINSTALL mode in options.
+2110956037|        |phoenix_rage_uninstall|Phoenix Rage uninstalled. Any skill points used on it has been refunded. Please save, quit Witcher, then delete the mod before continuing.
+2110956038|        |phoenix_rage_noaction|Phoenix Rage DEBUG: No Action Taken
+2110956039|        |phoenix_rage_repair|Phoenix Rage repaired. Find it in the Character menu under the Igni Sign skills.

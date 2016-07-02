@@ -1,0 +1,29 @@
+{
+    "files": [
+        {
+            "path": "gameplay\\abilities\\geralt_skills.xml",
+            "level": 0,
+            "seed": 1,
+            "id": "C9E8A7AE-7D80F5F5-DB76B6D0-29C360B5"
+        },
+        {
+            "path": "gameplay\\abilities_plus\\geralt_skills.xml",
+            "level": 0,
+            "seed": 1,
+            "id": "3C2002DF-F1A3AC47-586FB4DA-139D7AE4"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\magic_s26.png",
+            "level": 0,
+            "seed": 1,
+            "consumed": 1,
+            "id": "E768FB9F-347443E2-F64A0F1A-A8060BB2"
+        },
+        {
+            "path": "gameplay\\gui_new\\icons\\skills\\signs\\thumbs.db",
+            "level": 0,
+            "seed": 1,
+            "id": "3BAC0E31-9D26E6C0-4BCD3B90-E65CFBDD"
+        }
+    ]
+}

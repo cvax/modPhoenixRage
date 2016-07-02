@@ -1,0 +1,20 @@
+Put the following lines at the end of the input.settings and save it.
+
+1. Use any text editor like Notepad++ to open <My Documents>\The Witcher 3\input.settings
+2. Add the following lines to the end of the file. Do NOT replace the file contents, just add it to the end. Save.
+
+
+
+// modPhoenixRage
+[BASE_Signs]
+IK_Q=(Action=PhoenixRage)
+IK_LShift=(Action=PhoenixRageModifier)
+
+[Combat]
+IK_Q=(Action=PhoenixRage)
+IK_LShift=(Action=PhoenixRageModifier)
+
+[Exploration]
+IK_Q=(Action=PhoenixRage)
+IK_LShift=(Action=PhoenixRageModifier)
+// modPhoenixRage
