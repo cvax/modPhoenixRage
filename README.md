@@ -3,6 +3,7 @@ Unleash a powerful Igni blast when Geralt reaches low health and has enough stor
 
 ![Alt Text](https://staticdelivery.nexusmods.com/mods/952/images/1765-0-1467446111.png)
 
+[YouTube demo](https://youtu.be/J6yWhoMcOHg)
 [nexusmods Page](http://www.nexusmods.com/witcher3/mods/1765?)
 
 ### Features

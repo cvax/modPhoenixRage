@@ -36,9 +36,6 @@ class PhxRage
 			{
 				thePlayer.BlockAction(EIAB_Signs, SkillEnumToName(S_Magic_s26));
 
-				//theGame.GetGuiManager().ShowNotification("Hello: " + thePlayer.CanUseSkill(S_Magic_s26));
-				//theGame.GetGuiManager().ShowNotification( "Health: " + thePlayer.GetHealthPercents() + " Focus: " + thePlayer.GetStat(BCS_Focus) + " Stamina: " + thePlayer.GetStat(BCS_Stamina));
-				//GetWitcherPlayer().DisplayHudMessage( "Req Health: " + healthReq + " Foc: " + drainFocus + " Stam: " + stamCost );
 				if (IsPressed (action)
 					&& thePlayer.GetEquippedSign() == ST_Igni
 					&& thePlayer.CanUseSkill(S_Magic_s26)

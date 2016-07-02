@@ -3,7 +3,7 @@ set WITCHERBASEDIR=D:\Games\Witcher3\W3UncookedBnW
 set MODKITPATH=C:\Program Files\The Witcher 3 Wild Hunt\Witcher 3 Mod Kit\bin\x64
 set W3STRINGSENCODER=C:\Program Files\The Witcher 3 Wild Hunt\Witcher 3 W3Strings Encoder
 
-set W3STRINGSIDSPACE=0956
+set W3STRINGSIDSPACE=1765
 set NAME=modPhoenixRage
 
 set MODPATH=%~dp0
