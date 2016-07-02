@@ -1,2 +1,6 @@
+v1.xx-dev
+- Improved merge compatibility with modCustomSkillsFramework
+- Improved merge compatibility with modAMM
+
 v1.00
 - Initial release
