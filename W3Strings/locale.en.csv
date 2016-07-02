@@ -32,3 +32,12 @@
 2111765037|        |phoenix_rage_uninstall|Phoenix Rage uninstalled. Any skill points used on it has been refunded. Please save, quit Witcher, then delete the mod before continuing.
 2111765038|        |phoenix_rage_noaction|Phoenix Rage DEBUG: No Action Taken
 2111765039|        |phoenix_rage_repair|Phoenix Rage repaired. Find it in the Character menu under the Igni Sign skills.
+;
+; Custom bomb
+;
+2111765060|        |item_name_phoenixrage_1|Phoenix Rage
+2111765061|        |item_name_phoenixrage_2|Greater Phoenix Rage
+2111765062|        |item_name_phoenixrage_3|Superior Phoenix Rage
+2111765063|        |item_desc_phoenixrage_1|Explosive release from Phoenix Rage
+2111765064|        |item_desc_phoenixrage_2|Explosive release from Phoenix Rage
+2111765065|        |item_desc_phoenixrage_3|Explosive release from Phoenix Rage

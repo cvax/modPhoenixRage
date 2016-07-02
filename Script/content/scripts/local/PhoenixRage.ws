@@ -86,3 +86,22 @@ class PhxRage
 		}
 	}*/
 }
+
+function addphoenixrage_petard(optional count : int, optional equip : bool)
+{
+	var ids : array<SItemUniqueId>;
+	var i : int;
+
+	if(IsNameValid('PhoenixRage 1'))
+	{
+		ids = thePlayer.inv.AddAnItem('PhoenixRage 1', count);
+		if(thePlayer.inv.IsItemSingletonItem(ids[0]))
+		{
+			for(i=0; i<ids.Size(); i+=1)
+				thePlayer.inv.SingletonItemSetAmmo(ids[i], thePlayer.inv.SingletonItemGetMaxAmmo(ids[i]));
+		}
+				
+		if(equip)
+			thePlayer.EquipItem(ids[0]);
+	}
+}
