@@ -4,14 +4,18 @@
 		<PresetsArray>
 			<Preset id="0" displayName="phoenix_rage_preset01" tags="customNames;nonLocalized;customDisplayName">
 				<Entry varId="phxRageEnabled"				value="1"	/>
+				<Entry varId="tintScreen"					value="1"	/>
 				<Entry varId="clusterCount"					value="10"	/>
+				<Entry varId="clusterDamage"				value="150" />
 				<Entry varId="maxHealthReq"					value="25"	/>
 				<Entry varId="adrenCost"					value="3"	/>
 				<Entry varId="stamCost"						value="50"	/>
 			</Preset>
 			<Preset id="1" displayName="phoenix_rage_preset02" tags="customNames;nonLocalized;customDisplayName">
 				<Entry varId="phxRageEnabled"				value="1"	/>
+				<Entry varId="tintScreen"					value="1"	/>
 				<Entry varId="clusterCount"					value="10"	/>
+				<Entry varId="clusterDamage"				value="600" />
 				<Entry varId="maxHealthReq"					value="100"	/>
 				<Entry varId="adrenCost"					value="0"	/>
 				<Entry varId="stamCost"						value="50"	/>
@@ -32,7 +36,11 @@
 				</OptionsArray>
 			</Var>
 			
+			<Var id="tintScreen" displayName="pr_tint" displayType="TOGGLE" tags="customNames;nonLocalized;customDisplayName"/>
+			
 			<Var id="clusterCount" displayName="pr_clusterCount" displayType="SLIDER;0;10;10" tags="customNames;nonLocalized;customDisplayName"/>
+
+			<Var id="clusterDamage" displayName="pr_clusterDamage" displayType="SLIDER;0;1000;100" tags="customNames;nonLocalized;customDisplayName"/>
 
 			<Var id="maxHealthReq" displayName="pr_maxHealthReq" displayType="SLIDER;0;100;100" tags="customNames;nonLocalized;customDisplayName"/>
 

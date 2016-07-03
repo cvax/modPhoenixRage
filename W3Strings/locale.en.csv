@@ -12,13 +12,15 @@
 2111765003|        |preset_value_phoenix_rage_preset01|Balanced
 2111765004|        |preset_value_phoenix_rage_preset02|Strong
 2111765005|        |pr_clusterCount|Cluster Count
-2111765006|        |pr_maxHealthReq|Health %
-2111765007|        |pr_adrenCost|Adrenaline Cost
-2111765008|        |pr_stamCost|Stamina Cost %
-2111765009|        |pr_enabled|---=== ENABLE ===--- <u>Reloading of save file required.<u>
-2111765010|        |pr_enabled_Option1|Off
-2111765011|        |pr_enabled_Option2|On
-2111765012|        |pr_enabled_Option3|Uninstall
+2111765006|        |pr_clusterDamage|Cluster Damage
+2111765007|        |pr_maxHealthReq|Max Health % Requirement
+2111765008|        |pr_adrenCost|Adrenaline Cost
+2111765009|        |pr_stamCost|Stamina Cost %
+2111765010|        |pr_enabled|---=== ENABLE ===--- <u>Reloading of save file required.<u>
+2111765011|        |pr_enabled_Option1|Off
+2111765012|        |pr_enabled_Option2|On
+2111765013|        |pr_enabled_Option3|Uninstall
+2111765014|        |pr_tint|Tint screen when enraged
 ;
 ; Skill Name/Descriptions/Notifications
 ;

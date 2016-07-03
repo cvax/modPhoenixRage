@@ -1,6 +1,10 @@
-v1.xx-dev
+v1.10
 - Improved merge compatibility with modCustomSkillsFramework
 - Improved merge compatibility with modAMM
+- Added option to adjust the damage output of clusters
+- Added indication that Phoenix Rage is available via screen tinting
+- Fixed skill description for level 2 and level 3
+- Fixed scenario where animaion would play, but no explosions would be triggered
 
 v1.00
 - Initial release
