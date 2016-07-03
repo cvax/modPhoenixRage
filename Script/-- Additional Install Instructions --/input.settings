@@ -1,0 +1,13 @@
+// modPhoenixRage
+[BASE_Signs]
+IK_Q=(Action=PhoenixRage)
+IK_LShift=(Action=PhoenixRageModifier)
+
+[Combat]
+IK_Q=(Action=PhoenixRage)
+IK_LShift=(Action=PhoenixRageModifier)
+
+[Exploration]
+IK_Q=(Action=PhoenixRage)
+IK_LShift=(Action=PhoenixRageModifier)
+// modPhoenixRage

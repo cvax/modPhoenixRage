@@ -1,7 +1,21 @@
+*******************************
+******Option 1. Installer******
+*******************************
+
+Run "input.settings Installer.bat".
+If it fails then you will need to install it manually with the steps below
+
+
+
+
+************************************
+******Option 2. Manual Install******
+************************************
 Put the following lines at the end of the input.settings and save it.
 
 1. Use any text editor like Notepad++ to open <My Documents>\The Witcher 3\input.settings
 2. Add the following lines to the end of the file. Do NOT replace the file contents, just add it to the end. Save.
+
 
 
 

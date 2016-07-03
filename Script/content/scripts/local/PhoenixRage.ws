@@ -48,7 +48,11 @@ class PhxRage
 					thePlayer.DrainStamina(ESAT_FixedValue, stamCost, 0, SkillEnumToName(S_Magic_s26));
 				}
 				else if (IsReleased (action))
+				{
 					thePlayer.UnblockAction(EIAB_Signs, SkillEnumToName(S_Magic_s26));
+					if (theGame.GetInGameConfigWrapper().GetVarValue('PhoenixRage', 'tintScreen') == "true")
+						DisableCatViewFx(1.0f);
+				}
 			}
 		}
 	}
@@ -87,14 +91,14 @@ class PhxRage
 	}*/
 }
 
-function addphoenixrage_petard(optional count : int, optional equip : bool)
+function addphoenixrage_petard(phoenixRagePetard : name, optional count : int, optional equip : bool)
 {
 	var ids : array<SItemUniqueId>;
 	var i : int;
 
-	if(IsNameValid('PhoenixRage 1'))
+	if(IsNameValid(phoenixRagePetard))
 	{
-		ids = thePlayer.inv.AddAnItem('PhoenixRage 1', count);
+		ids = thePlayer.inv.AddAnItem(phoenixRagePetard, count);
 		if(thePlayer.inv.IsItemSingletonItem(ids[0]))
 		{
 			for(i=0; i<ids.Size(); i+=1)
